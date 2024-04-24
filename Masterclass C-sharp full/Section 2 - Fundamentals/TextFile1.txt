@@ -1,0 +1,4 @@
+﻿Section 2 - Fundamentals notes
+
+- DLL files are source code generated/translated by the compiler, for the computer to understand. This is why an executable can be run without visual studio, as it uses the DLL files.
+

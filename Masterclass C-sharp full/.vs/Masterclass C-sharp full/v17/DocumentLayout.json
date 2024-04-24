@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FCAB0-3081-428D-9339-E5BB800372E0}|Section 2 - Fundamentals\\1. Fundamentals.csproj|c:\\users\\mfl\\source\\repos\\masterclass-c-sharp\\masterclass c-sharp full\\section 2 - fundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FCAB0-3081-428D-9339-E5BB800372E0}|Section 2 - Fundamentals\\1. Fundamentals.csproj|solutionrelative:section 2 - fundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D7CCE2-1287-4596-B3CC-33B0C7D22607}|Calculator\\Calculator.csproj|c:\\users\\mfl\\source\\repos\\masterclass-c-sharp\\masterclass c-sharp full\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D7CCE2-1287-4596-B3CC-33B0C7D22607}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Section 2 - Fundamentals\\Program.cs",
+              "RelativeDocumentMoniker": "Section 2 - Fundamentals\\Program.cs",
+              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Section 2 - Fundamentals\\Program.cs",
+              "RelativeToolTip": "Section 2 - Fundamentals\\Program.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAWwJUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:28:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:36:06.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
