@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Section 2 - Fundamentals\\1. Fundamentals.csproj",
-      "projectName": "1. Fundamentals",
-      "projectPath": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Section 2 - Fundamentals\\1. Fundamentals.csproj",
+      "projectUniqueName": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\TODOApp\\TODOApp.csproj",
+      "projectName": "TODOApp",
+      "projectPath": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\TODOApp\\TODOApp.csproj",
       "packagesPath": "C:\\Users\\mfl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\Section 2 - Fundamentals\\obj\\",
+      "outputPath": "C:\\Users\\mfl\\source\\repos\\Masterclass-C-sharp\\Masterclass C-sharp full\\TODOApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mfl\\AppData\\Roaming\\NuGet\\NuGet.Config",

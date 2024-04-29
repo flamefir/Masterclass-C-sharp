@@ -1,0 +1,15 @@
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\bin\Debug\net8.0\TODOApp.exe
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\bin\Debug\net8.0\TODOApp.deps.json
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\bin\Debug\net8.0\TODOApp.runtimeconfig.json
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\bin\Debug\net8.0\TODOApp.dll
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\bin\Debug\net8.0\TODOApp.pdb
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.AssemblyInfoInputs.cache
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.AssemblyInfo.cs
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.csproj.CoreCompileInputs.cache
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.sourcelink.json
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.dll
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\refint\TODOApp.dll
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.pdb
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\TODOApp.genruntimeconfig.cache
+C:\Users\mfl\source\repos\Masterclass-C-sharp\Masterclass C-sharp full\TODOApp\obj\Debug\net8.0\ref\TODOApp.dll
