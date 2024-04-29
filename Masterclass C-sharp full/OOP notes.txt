@@ -1,0 +1,62 @@
+section 3 - Object oriented programming 
+
+Immutability
+Once an object is created, it will never be modified, 
+
+- *readonly* can be assigned with value in constructor.
+Use readonly fields when we want a field to never change, after it has been set in the constructor.
+
+- *const* must be assigned a value at declaration.
+Use const for objects with a constant value, that is known at compilation time.
+
+
+Typically non OOP is
+- Procedural programming
+- Spaghetti code
+
+The big 4
+- Encapsulation
+Bundling data with methods that operate on this data (in single class).
+
+- Polymorphism
+- Abstraction
+- Inheritance
+
+Classes
+- Fields = int width;
+	Variable like
+	Single access modifier
+	No separate getter and setter
+	Cannot be overriden in derived classes
+	Should always be private
+
+- Property = int width { get; set; }
+	Method like
+	Separate access modifiers for getter and setter
+	Getter or setter may be removed
+	Can be overriden in derived classes
+	Can safely be public
+
+Access modifiers
+- Public
+- Private
+- Internal
+
+Expression-bodied methods
+- Single expression line methods like: public int CalculateArea() => Height * Width;
+
+Static
+- Cant create instances of a static class.
+- Methods and variables contained in a static class shall be of a static type as well.
+- Static variables is much like a const variable of a class, it doesnt change its value with multiple instances of a class.
+- Static variables and methods belong to the class, and not the instance of the class.
+- Static fields and properties should be avoided, for some clean code reason
+
+SOLID principles
+- [S]ingle responsibility principle
+	A class should be responsible for only one thing
+	A class should have only one reason to change.
+
+DRY principle
+- Dont repeat yourself
+	States that we should not have multiple places in the code where the same business decisions are defined.

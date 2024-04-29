@@ -1,0 +1,15 @@
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.AssemblyInfoInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.AssemblyInfo.cs
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.sourcelink.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\bin\Debug\net8.0\Order.exe
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\bin\Debug\net8.0\Order.deps.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\bin\Debug\net8.0\Order.runtimeconfig.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\bin\Debug\net8.0\Order.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\bin\Debug\net8.0\Order.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\refint\Order.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\Order.genruntimeconfig.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Order\obj\Debug\net8.0\ref\Order.dll

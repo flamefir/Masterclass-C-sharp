@@ -1,0 +1,5 @@
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Training notes\obj\Debug\net8.0\Training notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Training notes\obj\Debug\net8.0\Training notes.AssemblyInfoInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Training notes\obj\Debug\net8.0\Training notes.AssemblyInfo.cs
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Training notes\obj\Debug\net8.0\Training notes.csproj.CoreCompileInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Training notes\obj\Debug\net8.0\Training notes.sourcelink.json
