@@ -16,21 +16,34 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 3", "Section 3", "{
 		OOP notes.txt = OOP notes.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking Exercise", "HotelBooking Exercise\HotelBooking Exercise.csproj", "{C704E4DD-2D47-46A7-9C35-3B4A884F375E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBooking Exercise", "HotelBooking Exercise\HotelBooking Exercise.csproj", "{C704E4DD-2D47-46A7-9C35-3B4A884F375E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{A2543137-8A06-4EEB-BDB7-0EB2E5BA5FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "Triangle\Triangle.csproj", "{A2543137-8A06-4EEB-BDB7-0EB2E5BA5FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog", "Dog\Dog.csproj", "{10771897-94FA-4C22-A29F-70874AC41761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dog", "Dog\Dog.csproj", "{10771897-94FA-4C22-A29F-70874AC41761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training notes", "Training notes\Training notes.csproj", "{0A962D7E-DF91-4F15-9686-04C36869A3F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Training notes", "Training notes\Training notes.csproj", "{0A962D7E-DF91-4F15-9686-04C36869A3F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order", "Order\Order.csproj", "{C30AD105-ED06-4A74-8CA2-9DF3A3BF203A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order", "Order\Order.csproj", "{C30AD105-ED06-4A74-8CA2-9DF3A3BF203A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyAccountState", "DailyAccountState\DailyAccountState.csproj", "{FF17760E-989D-4B4A-B716-2441E46179BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailyAccountState", "DailyAccountState\DailyAccountState.csproj", "{FF17760E-989D-4B4A-B716-2441E46179BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToDayOfWeekTranslator", "NumberToDayOfWeekTranslator\NumberToDayOfWeekTranslator.csproj", "{1E7A3884-DF9A-456C-A22F-BA5D8EB62BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToDayOfWeekTranslator", "NumberToDayOfWeekTranslator\NumberToDayOfWeekTranslator.csproj", "{1E7A3884-DF9A-456C-A22F-BA5D8EB62BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsTransformation", "StringsTransformation\StringsTransformation.csproj", "{05D2D6F6-0A30-4239-8D44-8115CAA5F816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsTransformation", "StringsTransformation\StringsTransformation.csproj", "{05D2D6F6-0A30-4239-8D44-8115CAA5F816}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRollGame", "DiceRollGame\DiceRollGame.csproj", "{9CCA319D-0770-4B12-B975-6248FAD8C88E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 4", "Section 4", "{ED43AC89-691A-4EEC-BB81-ED78AD277AE7}"
+	ProjectSection(SolutionItems) = preProject
+		OOP extended notes.txt = OOP extended notes.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingridient derived", "Ingridient derived\Ingridient derived.csproj", "{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance & Overriding - Animals", "Inheritance & Overriding - Animals\Inheritance & Overriding - Animals.csproj", "{A900B0FD-30BA-4C09-9166-6CD5E32888AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual methods - StringsProcessor classes", "Virtual methods - StringsProcessor classes\Virtual methods - StringsProcessor classes.csproj", "{997D126B-B0D6-4729-B53B-D8CA666F3F8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,6 +95,22 @@ Global
 		{05D2D6F6-0A30-4239-8D44-8115CAA5F816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05D2D6F6-0A30-4239-8D44-8115CAA5F816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05D2D6F6-0A30-4239-8D44-8115CAA5F816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCA319D-0770-4B12-B975-6248FAD8C88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCA319D-0770-4B12-B975-6248FAD8C88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCA319D-0770-4B12-B975-6248FAD8C88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCA319D-0770-4B12-B975-6248FAD8C88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A900B0FD-30BA-4C09-9166-6CD5E32888AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A900B0FD-30BA-4C09-9166-6CD5E32888AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A900B0FD-30BA-4C09-9166-6CD5E32888AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A900B0FD-30BA-4C09-9166-6CD5E32888AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +127,10 @@ Global
 		{FF17760E-989D-4B4A-B716-2441E46179BA} = {1A233EC0-7042-41EF-A3DE-17D3539DAB44}
 		{1E7A3884-DF9A-456C-A22F-BA5D8EB62BDB} = {1A233EC0-7042-41EF-A3DE-17D3539DAB44}
 		{05D2D6F6-0A30-4239-8D44-8115CAA5F816} = {1A233EC0-7042-41EF-A3DE-17D3539DAB44}
+		{9CCA319D-0770-4B12-B975-6248FAD8C88E} = {1A233EC0-7042-41EF-A3DE-17D3539DAB44}
+		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{A900B0FD-30BA-4C09-9166-6CD5E32888AE} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{997D126B-B0D6-4729-B53B-D8CA666F3F8C} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36DA6711-F20A-4BF9-9032-9CDBD1AE22E5}

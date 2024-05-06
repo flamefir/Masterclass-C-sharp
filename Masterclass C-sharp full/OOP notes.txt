@@ -60,3 +60,8 @@ SOLID principles
 DRY principle
 - Dont repeat yourself
 	States that we should not have multiple places in the code where the same business decisions are defined.
+
+Magic number antipattern
+- Magic Number is any arbitrary, unnamed value in the code that has no context or meaning.
+- Usually not good practice
+- Avoid with consts or well named variables.

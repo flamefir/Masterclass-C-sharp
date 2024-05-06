@@ -1,0 +1,42 @@
+section 4 - OOP: Polymorphism, Inheritance and interfaces
+
+The big 4
+- Encapsulation
+Bundling data with methods that operate on this data (in single class).
+
+- Polymorphism
+The provision of a single interface to entities of different types.
+Example: There is a generic concept of Ingredient, and this concept
+		 can be made concrete by multiple types like cheddar, mozzarella.
+		 All of the types can be used wherever the generic Ingredient concept is needed.
+
+Poly meaning -> many
+Morphe meaning -> form/shape
+
+Polymorphism can be achieved by Inheritance.
+
+- Abstraction
+- Inheritance
+Enables us to create new classes that reuse, extend and modify the behavior defined in other classes.
+
+The class whose members are inherited is called the base class, and the class that inherits those
+members is called the derived class.
+
+Inheritance is an "is-a" kind of relationship. (Mozzarella is a ingredient)
+
+Public methods of a class can be used in the base class and derived classes.
+Private methods of a class can not be used in the derived class, or outside.
+Protected members of a class can be used in the derived classes, but cant be used outside.
+
+Inheritance can have multiple types defined to a base class, like a hierarchi:
+Like the type ingredient base class, can have another type called cheese that is derived from base Ingredient.
+Cheese can have multiple types like cheddar or mozzarella. This could again be split into region type classes.
+Having more than a dept of 5 layers is not recommended, it adds to code complexity and changes made in upper types effects many lower types. 
+Instead Composition > inheritance
+
+A derived class cant inherit from more than one base class.
+Because diamond problem
+
+There is two types of conversion:
+Implicit conversion -> Does not require cast expression, when a conversion is safe and lossless.
+Explicit conversion -> Does require cast expression, ...... TBC

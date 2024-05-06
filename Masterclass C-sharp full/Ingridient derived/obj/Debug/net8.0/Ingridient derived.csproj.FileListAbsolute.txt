@@ -1,0 +1,15 @@
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\bin\Debug\net8.0\Ingridient derived.exe
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\bin\Debug\net8.0\Ingridient derived.deps.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\bin\Debug\net8.0\Ingridient derived.runtimeconfig.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\bin\Debug\net8.0\Ingridient derived.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\bin\Debug\net8.0\Ingridient derived.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.AssemblyInfoInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.AssemblyInfo.cs
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.csproj.CoreCompileInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.sourcelink.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\refint\Ingridient derived.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\Ingridient derived.genruntimeconfig.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Ingridient derived\obj\Debug\net8.0\ref\Ingridient derived.dll

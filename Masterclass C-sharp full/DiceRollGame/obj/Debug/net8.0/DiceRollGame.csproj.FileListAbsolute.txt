@@ -1,0 +1,15 @@
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
