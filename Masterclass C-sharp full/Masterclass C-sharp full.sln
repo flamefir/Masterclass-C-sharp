@@ -39,11 +39,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 4", "Section 4", "{
 		OOP extended notes.txt = OOP extended notes.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingridient derived", "Ingridient derived\Ingridient derived.csproj", "{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ingridient derived", "Ingridient derived\Ingridient derived.csproj", "{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance & Overriding - Animals", "Inheritance & Overriding - Animals\Inheritance & Overriding - Animals.csproj", "{A900B0FD-30BA-4C09-9166-6CD5E32888AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance & Overriding - Animals", "Inheritance & Overriding - Animals\Inheritance & Overriding - Animals.csproj", "{A900B0FD-30BA-4C09-9166-6CD5E32888AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual methods - StringsProcessor classes", "Virtual methods - StringsProcessor classes\Virtual methods - StringsProcessor classes.csproj", "{997D126B-B0D6-4729-B53B-D8CA666F3F8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Virtual methods - StringsProcessor classes", "Virtual methods - StringsProcessor classes\Virtual methods - StringsProcessor classes.csproj", "{997D126B-B0D6-4729-B53B-D8CA666F3F8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumericTypesDescriber", "NumericTypesDescriber\NumericTypesDescriber.csproj", "{2E7EEFC3-A072-4A95-9D00-219545D975F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract methods - Shapes", "Abstract methods - Shapes\Abstract methods - Shapes.csproj", "{32AFABB1-B3B5-452B-8BF8-CEC9D497B208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension methods - List extensions", "Extension methods - List extensions\Extension methods - List extensions.csproj", "{ABDEA605-B519-43D0-9260-4B9BC7480293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces - Applying multiple transformations to a number", "Interfaces - Applying multiple transformations to a number\Interfaces - Applying multiple transformations to a number.csproj", "{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookie Cookbook", "Cookie Cookbook\Cookie Cookbook.csproj", "{A71811F6-CA83-4B36-851F-8D502B65144E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +121,26 @@ Global
 		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{997D126B-B0D6-4729-B53B-D8CA666F3F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7EEFC3-A072-4A95-9D00-219545D975F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7EEFC3-A072-4A95-9D00-219545D975F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7EEFC3-A072-4A95-9D00-219545D975F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7EEFC3-A072-4A95-9D00-219545D975F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AFABB1-B3B5-452B-8BF8-CEC9D497B208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AFABB1-B3B5-452B-8BF8-CEC9D497B208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AFABB1-B3B5-452B-8BF8-CEC9D497B208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AFABB1-B3B5-452B-8BF8-CEC9D497B208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDEA605-B519-43D0-9260-4B9BC7480293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDEA605-B519-43D0-9260-4B9BC7480293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDEA605-B519-43D0-9260-4B9BC7480293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDEA605-B519-43D0-9260-4B9BC7480293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71811F6-CA83-4B36-851F-8D502B65144E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71811F6-CA83-4B36-851F-8D502B65144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71811F6-CA83-4B36-851F-8D502B65144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71811F6-CA83-4B36-851F-8D502B65144E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +161,11 @@ Global
 		{A62F8A3A-7C7D-4B8B-9A9A-57ABFA1162B1} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
 		{A900B0FD-30BA-4C09-9166-6CD5E32888AE} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
 		{997D126B-B0D6-4729-B53B-D8CA666F3F8C} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{2E7EEFC3-A072-4A95-9D00-219545D975F5} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{32AFABB1-B3B5-452B-8BF8-CEC9D497B208} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{ABDEA605-B519-43D0-9260-4B9BC7480293} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{4CD35ED9-FCBF-4FFF-8749-8EC6365F5DE4} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
+		{A71811F6-CA83-4B36-851F-8D502B65144E} = {ED43AC89-691A-4EEC-BB81-ED78AD277AE7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36DA6711-F20A-4BF9-9032-9CDBD1AE22E5}

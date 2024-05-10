@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringsTransformation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ff032d5b24579222b3657a5f817e7f9b7cc4d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed0efba8e2763ef014f55b8f3b665596d59ecdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringsTransformation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringsTransformation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

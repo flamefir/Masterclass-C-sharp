@@ -37,6 +37,69 @@ Instead Composition > inheritance
 A derived class cant inherit from more than one base class.
 Because diamond problem
 
-There is two types of conversion:
+There is two types of variable conversion:
 Implicit conversion -> Does not require cast expression, when a conversion is safe and lossless.
-Explicit conversion -> Does require cast expression, ...... TBC
+Explicit conversion -> Does require cast expression, looses data, ex: (int)(double 10.01) -> 10
+
+There is x types of class conversion:
+Upcasting	-> derived class casted to base class, ex: mozzarella casted to base class ingredient.
+Downcasting -> base class casted to derived class, ex: mozzarella casted to cheddar, wont work even tho both are ingredient.
+			   Will work if cheddar object casted to cheddar object, -> explicit casting or "is" operator.
+
+"is", "is not" operator
+ - checks if some object is of a given type or not -> returns bool
+
+Abstract class as a base type
+ - Not a good idea
+ - Better to use interface
+ - Classes cant be derived from more than one base type.
+
+Abstract methods
+ - They can only be defined in abstract classes.
+ - Cant have an implementation in the base class.
+ - Implicitly virtual.
+ - Shall always be overriden in derived classes, because no default implementation in the base class.
+ - Should be implemented if base type should not or cannot provide any default implementation.
+
+Virtual methods
+ - Overridding is optional in the derived classes.
+ - Must have an implementation in the base class.
+
+Sealed classes or methods
+ - A sealed class can't be derived from.
+ - A sealed override method can't be derived from or overriden in sub classes, but the class can.
+
+Static classes are implicitly sealed
+ - Cant derive from static classes because they only contain static methods, and static methods cant be overriden.
+ - A static class is implemented as a one of its kind type.
+ - We cannot use inheritance with static classes, They are always sealed.
+
+Extensions of a type
+ - Sometimes we want to add a method to an existing type.
+ - When we do, class must be static, and methods must also be static, methods must have "this" as the first parameter.
+ - Extensions wont affect the original type.
+ - They are called like as if they were instance methods on the extended type.
+
+Interfaces
+ - "Behaves-like" kind of relationship.
+ - IFlyable, the first I is convention.
+ - Methods derived from interfaces must be public.
+ - Methods are implicitly virtual.
+ - Interfaces cant be instanciated
+
+Interfaces vs abstract classes
+- Both cant be instanciated
+	Interface
+	 - Defines the set of oberations that the implementing type must provide.
+	 - Does not provide any implementation detail on its own.
+	 - Does not contain any data.
+	 - Defines what an object "can do"
+	 - Not sure what the object "is"
+	 - Verb
+	abstract class
+	 - Blueprint for derived classes, representing a general type of a category.
+	 - May provide implementation details in non-abstract methods. Can also have abstract methods.
+	 - Can contain data.
+	 - Defines what an object "is"
+	 - Not sure what the object "is able to do"
+	 - Noun

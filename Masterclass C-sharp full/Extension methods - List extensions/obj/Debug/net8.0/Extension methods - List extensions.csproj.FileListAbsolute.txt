@@ -1,0 +1,15 @@
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\bin\Debug\net8.0\Extension methods - List extensions.exe
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\bin\Debug\net8.0\Extension methods - List extensions.deps.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\bin\Debug\net8.0\Extension methods - List extensions.runtimeconfig.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\bin\Debug\net8.0\Extension methods - List extensions.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\bin\Debug\net8.0\Extension methods - List extensions.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.AssemblyInfoInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.AssemblyInfo.cs
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.csproj.CoreCompileInputs.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.sourcelink.json
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\refint\Extension methods - List extensions.dll
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.pdb
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\Extension methods - List extensions.genruntimeconfig.cache
+C:\Users\flamm\OneDrive\Git\Masterclass-C-sharp\Masterclass C-sharp full\Extension methods - List extensions\obj\Debug\net8.0\ref\Extension methods - List extensions.dll
